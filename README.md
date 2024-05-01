@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dishant Sangani</h1>
 <h3 align="center">A Passionate Fullstack Web Developer From India</h3>
 
-- 👨‍💻 All of my projects are available at [https://dishantsangani.netlify.app/](https://dishantsangani.netlify.app)
+- 👨‍💻 All of my projects are available at https://bento.me/dishantsangani
 
 - 📫 How to reach me **devsangani168@gmail.com**
 
