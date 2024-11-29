@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dishant sangani" target="blank"><img src="https://img.shields.io/twitter/follow/dishant sangani?logo=twitter&style=for-the-badge" alt="dishant sangani" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js & Node js**
 
 - 👨‍💻 All of my projects are available at https://dishant27.netlify.app/
 
