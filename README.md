@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [https://bento.me/dishantsangani](https://bento.me/dishantsangani)
+- 👨‍💻 All of my projects are available at https://dishant27.netlify.app/
 
 - 📫 How to reach me **devsangani168@gmail.com**
 
