@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dishant Sangani</h1>
-<h3 align="center">A Passionate React js Developer From India</h3>
+<h3 align="center">A Passionate Mern Stack Developer From India</h3>
 
 <p align="left"> <a href="https://twitter.com/dishant sangani" target="blank"><img src="https://img.shields.io/twitter/follow/dishant sangani?logo=twitter&style=for-the-badge" alt="dishant sangani" /></a> </p>
 
